@@ -1,4 +1,4 @@
-https://hytaleadrrus.github.io/Hytale/
+https://hytaleadrrus.github.io/Hytale
 
 Этот сайт посвящён очень амбициозной игры "HYTALE"
 
