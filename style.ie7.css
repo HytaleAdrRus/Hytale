@@ -38,7 +38,7 @@ ul.art-hmenu>li>span.art-hmenu-separator
    top:0;
    left:  -1px;
    width: 1px;
-   height: 52px;
+   height: 58px;
    background: url('images/menuseparator.png') center center no-repeat;
 }
 ul.art-hmenu>li:first-child>span.art-hmenu-separator
