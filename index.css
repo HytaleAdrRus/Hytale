@@ -135,3 +135,9 @@ body
    height: 100%;
    border-width: 0;
 }
+#Layer2
+{
+   background-color: #1E1E1E;
+   background-image: none;
+   border: 4px solid #FFFFFF;
+}
